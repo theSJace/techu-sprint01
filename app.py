@@ -1,5 +1,5 @@
-from urllib.robotparser import RequestRate
-from flask import Flask, render_template, request 
+#from urllib.robotparser import RequestRate
+from flask import Flask, render_template  
 
 app=Flask(__name__)
 
